@@ -8,3 +8,4 @@
 
 echo 'test';
 echo 'conflict';
+echo 'PULL';
